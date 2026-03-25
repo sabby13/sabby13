@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Sabby
-- 👀 I’m interested in Creating New Things
-- 🌱 I’m currently learning python and c 
-- 💞️ I’m looking to collaborate on Projects which need UI/UX
+- 👋 Hi, I’m Sahib/Sabby 
 - 📫 How to reach me: sahibpsingh13@gmail.com
 - ⚡ Fun fact: I can draw you in 12minutes 
 
