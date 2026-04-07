@@ -2,6 +2,8 @@
 - 📫 How to reach me: sahibpsingh13@gmail.com
 - ⚡ Fun fact: I can draw you in 12minutes 
 
+
+<!---
 <p align="center">
   <a href="https://github.com/sabby13">
     <img src="https://komarev.com/ghpvc/?username=sabby13&label=Profile%20views&color=0e75b6&style=flat" alt="sabby13" />
