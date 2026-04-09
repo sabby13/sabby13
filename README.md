@@ -5,8 +5,7 @@
 
 # Hi, I’m Sahib/Sabby 
 
-
-
+Making boring data makes sense & cool stuff that makes people blink their eyes <br>
 - 📫 How to reach me: sahibpsingh13@gmail.com
 - ⚡ Fun fact: I can draw you in 12minutes 
 
