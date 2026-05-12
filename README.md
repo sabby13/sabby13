@@ -9,7 +9,7 @@ Making boring data makes sense & cool stuff that makes people blink their eyes <
 - 📫 How to reach me: sahibpsingh13@gmail.com
 - ⚡ Fun fact: I can draw you in 12minutes
 
-chasing excellence in Tech and Design 
+chasing excellence in Tech&Design
 
 
 <!---
