@@ -4,10 +4,19 @@
 
 
 # Hi, I’m Sahib/Sabby 
+I build things where engineering meets design.
 
-Making boring data makes sense & cool stuff that makes people blink their eyes <br>
-- 📫 How to reach me: sahibpsingh13@gmail.com
-- ⚡ Fun fact: I can draw you in 12minutes
+
+My current fav things i made ;)
+
+🎵 Walkman Manager
+Desktop music experience inspired by the Sony Walkman.
+
+🦋 Butterfly
+A browser experience blending storytelling and WebGL.
+
+📊 SmartVid
+Task-aware video compression for AI surveillance.
 
 chasing excellence in Tech&Design
 
