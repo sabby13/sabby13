@@ -10,26 +10,36 @@ Rather than collecting tutorials or cloning projects, I like creating software t
 
 ## Tech I Enjoy
 
-**Languages**
+## 🛠️ Languages
 
-Python • JavaScript • TypeScript • C++
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
+</p>
 
-**AI & Data**
+## 🤖 AI & Data
 
-PyTorch • Scikit-learn • OpenCV • Pandas • NumPy
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,opencv" />
+</p>
 
-**Frontend**
+## 🎨 Frontend
 
-React • Next.js • Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-**Desktop**
+## 💻 Desktop
 
-Electron
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=electron" />
+</p>
 
-**Tools**
+## 🧰 Tools
 
-Git • GitHub • Docker • VS Code • Figma
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+</p>
 ---
 
 ## Philosophy
