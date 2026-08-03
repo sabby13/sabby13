@@ -6,36 +6,33 @@ I'm a developer who enjoys building products where **AI, design, and human exper
 
 Rather than collecting tutorials or cloning projects, I like creating software that solves problems I genuinely care about—from desktop applications to AI tools and interactive experiences.
 
----
 
-## Tech I Enjoy
-
-## 🛠️ Languages
+## Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
 </p>
 
-## 🤖 AI & Data
+## AI & Data
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,opencv" />
 </p>
 
-## 🎨 Frontend
+## Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-## 💻 Desktop
+## Desktop
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=electron" />
 </p>
 
-## 🧰 Tools
+## Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
