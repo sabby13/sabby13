@@ -1,24 +1,10 @@
- _   _ _                                                                               
-| | | (_)                                                                              
-| |_| |_                                                                               
-|  _  | |                                                                              
-| | | | |                                                                              
-\_| |_/_|                                                                              
-                                                                                       
-                                                                                       
- _____               _____       _     _ _           __  _____       _     _           
-|_   _|             /  ___|     | |   (_) |         / / /  ___|     | |   | |          
-  | | _ __ ___      \ `--.  __ _| |__  _| |__      / /  \ `--.  __ _| |__ | |__  _   _ 
-  | || '_ ` _ \      `--. \/ _` | '_ \| | '_ \    / /    `--. \/ _` | '_ \| '_ \| | | |
- _| || | | | | |    /\__/ / (_| | | | | | |_) |  / /    /\__/ / (_| | |_) | |_) | |_| |
- \___/_| |_| |_|    \____/ \__,_|_| |_|_|_.__/  /_/     \____/ \__,_|_.__/|_.__/ \__, |
-                                                                                  __/ |
-                                                                                 |___/ 
+# Hi, I'm Sahib (Sabby) 👋
+
 > *I build things I wish existed.*
 
-I'm a developer who enjoys building products where **AI, data and designed for human experience** meet.
+I'm a developer who enjoys building products where **AI, design, and human experience** meet.
 
-Rather than collecting tutorials or cloning projects, I like creating software that solves problems I genuinely care about from desktop applications to AI tools and interactive experiences.
+Rather than collecting tutorials or cloning projects, I like creating software that solves problems I genuinely care about—from desktop applications to AI tools and interactive experiences.
 
 ---
 
@@ -58,10 +44,19 @@ They're memorable.
 ---
 
 ## Find Me
+<p align="left">
+  <a href="https://sabby13.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
 
-🌐 Portfolio — *(coming soon)*
+  <a href="https://www.linkedin.com/in/sahibsingh1313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-💼 LinkedIn — *(add your link)*
+  <a href="https://github.com/sabby13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 📫 Feel free to reach out if you want to collaborate on AI, design, or interesting product ideas.
 
