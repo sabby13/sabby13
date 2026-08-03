@@ -1,26 +1,70 @@
-# Hi, I’m Sahib/Sabby 
-I build things where engineering meets design.
+ _   _ _                                                                               
+| | | (_)                                                                              
+| |_| |_                                                                               
+|  _  | |                                                                              
+| | | | |                                                                              
+\_| |_/_|                                                                              
+                                                                                       
+                                                                                       
+ _____               _____       _     _ _           __  _____       _     _           
+|_   _|             /  ___|     | |   (_) |         / / /  ___|     | |   | |          
+  | | _ __ ___      \ `--.  __ _| |__  _| |__      / /  \ `--.  __ _| |__ | |__  _   _ 
+  | || '_ ` _ \      `--. \/ _` | '_ \| | '_ \    / /    `--. \/ _` | '_ \| '_ \| | | |
+ _| || | | | | |    /\__/ / (_| | | | | | |_) |  / /    /\__/ / (_| | |_) | |_) | |_| |
+ \___/_| |_| |_|    \____/ \__,_|_| |_|_|_.__/  /_/     \____/ \__,_|_.__/|_.__/ \__, |
+                                                                                  __/ |
+                                                                                 |___/ 
+> *I build things I wish existed.*
 
+I'm a developer who enjoys building products where **AI, data and designed for human experience** meet.
 
-My current fav things i made ;)
+Rather than collecting tutorials or cloning projects, I like creating software that solves problems I genuinely care about from desktop applications to AI tools and interactive experiences.
 
+---
 
+## Tech I Enjoy
 
-chasing excellence in Tech&Design
+**Languages**
 
+Python • JavaScript • TypeScript • C++
 
-<!---
-<p align="center">
-  <a href="https://github.com/sabby13">
-    <img src="https://komarev.com/ghpvc/?username=sabby13&label=Profile%20views&color=0e75b6&style=flat" alt="sabby13" />
-  </a>
-  <a href="https://github.com/sabby13?tab=followers">
-    <img src="https://img.shields.io/github/followers/sabby13?label=Followers&style=social" />
-  </a>
-</p>
+**AI & Data**
 
+PyTorch • Scikit-learn • OpenCV • Pandas • NumPy
 
-<!---
-sabby13/sabby13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend**
+
+React • Next.js • Tailwind CSS
+
+**Desktop**
+
+Electron
+
+**Tools**
+
+Git • GitHub • Docker • VS Code • Figma
+
+---
+
+## Philosophy
+
+I don't enjoy building projects just to fill a résumé.
+
+I enjoy building products that feel intentional—software people actually want to use.
+
+Good products aren't only technically impressive.
+They're memorable.
+
+---
+
+## Find Me
+
+🌐 Portfolio — *(coming soon)*
+
+💼 LinkedIn — *(add your link)*
+
+📫 Feel free to reach out if you want to collaborate on AI, design, or interesting product ideas.
+
+---
+
+> *"Build things that people remember, not just things that compile."*
