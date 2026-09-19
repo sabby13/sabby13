@@ -10,13 +10,10 @@ I care less about collecting frameworks and more about taking something from:
 
 **idea → prototype → engineering → design → shipped product**
 
-Sometimes that's a native Windows application.  
-Sometimes it's an AI system.  
-Sometimes it's a butterfly living on your desktop.
 
 ---
 
-## 🦋 Things I'm Building
+## Things I'm Building
 
 ### GlassButterfly
 > *A tiny world living on your desktop.*
@@ -46,22 +43,11 @@ An ongoing experiment around extracting patterns, context, and behavioral signal
 ---
 ## I work with
 
-Languages        Python / JavaScript / TypeScript / C++ / C# <br>
-AI & Data        PyTorch / scikit-learn / Pandas / NumPy / OpenCV <br>
-Web              React / Next.js / Node.js / Tailwind <br>
-Desktop          C# / WinForms / WebView2 <br>
-Tools            Git / Docker / Figma <br>
+Languages:        Python / JavaScript / TypeScript / C++ / C# <br>
+AI & Data:        PyTorch / scikit-learn / Pandas / NumPy / OpenCV <br>
+Web:              React / Next.js / Node.js / Tailwind <br>
+Desktop:          C# / WinForms / WebView2 <br>
+Tools:            Git / Docker / Figma <br>
 
 
 
----
-
-## `currently_thinking_about.txt`
-
-```txt
-> world models
-> human-centered AI
-> artificial personalities
-> ambient computing
-> interfaces that don't feel like software
-> turning weird ideas into real products
