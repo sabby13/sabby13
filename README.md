@@ -46,11 +46,11 @@ An ongoing experiment around extracting patterns, context, and behavioral signal
 ---
 ## I work with
 
-Languages        Python / JavaScript / TypeScript / C++ / C#
-AI & Data        PyTorch / scikit-learn / Pandas / NumPy / OpenCV
-Web              React / Next.js / Node.js / Tailwind
-Desktop          C# / WinForms / WebView2
-Tools            Git / Docker / Figma
+Languages        Python / JavaScript / TypeScript / C++ / C# <br>
+AI & Data        PyTorch / scikit-learn / Pandas / NumPy / OpenCV <br>
+Web              React / Next.js / Node.js / Tailwind <br>
+Desktop          C# / WinForms / WebView2 <br>
+Tools            Git / Docker / Figma <br>
 
 
 
