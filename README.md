@@ -44,29 +44,15 @@ An ongoing experiment around extracting patterns, context, and behavioral signal
 `AI` `NLP` `Data` `Experimental`
 
 ---
+## I work with
 
-## ⚙️ What I Work With
+Languages        Python / JavaScript / TypeScript / C++ / C#
+AI & Data        PyTorch / scikit-learn / Pandas / NumPy / OpenCV
+Web              React / Next.js / Node.js / Tailwind
+Desktop          C# / WinForms / WebView2
+Tools            Git / Docker / Figma
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs" />
-</p>
 
-### AI & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,opencv" />
-</p>
-
-### Web
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
-</p>
 
 ---
 
