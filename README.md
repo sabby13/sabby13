@@ -8,7 +8,7 @@ my motto
 **idea → prototype → engineering → design → shipped product**
 
 
----
+
 
 
 ---
