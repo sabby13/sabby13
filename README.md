@@ -1,8 +1,7 @@
-# Hi, I'm Sahib 👋
+# Hi, I'm Sahib 
 
-
-I'm a Computer Science student.
-Most of what I build sits lies in the intersectin between **AI, software engineering, data, design, and human experience**.
+Developer/Analyst/Designer/Researcher
+what I build sits lies in the intersectin between **AI, software engineering, data, design, and human experience**.
 
 my motto 
 **idea → prototype → engineering → design → shipped product**
